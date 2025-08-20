@@ -1,8 +1,7 @@
 # Hi, I'm Maahira Begum 👋  
 
-💻 **Data Scientist | Web Developer | Writer**  
+💻 **Data Science Enthusiast | Blockchain Voyager | Writer**  
 📚 Final Year CSE Student | Exploring Ethical AI & Creative Tech  
-🦉 Lover of Owls, Sloths & Pandas  
 
 ---
 
@@ -18,7 +17,7 @@
 💻 **Languages:** Python, Java, JavaScript, SQL  
 🌐 **Frontend:** HTML, CSS, React, Responsive Web  
 📊 **Data Tools:** Power BI, MySQL, Spark  
-⚡ **Other:** Git, Blockchain, Android Studio  
+⚡ **Other:** Git, Blockchain 
 
 ---
 
@@ -30,8 +29,8 @@
 ---
 
 ## 📊 GitHub Vibes  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaahiraBegum&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaahiraBegum&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahira0810&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maahira0810&theme=radical)  
 
 ---
 
