@@ -24,13 +24,20 @@
 # 🌟 Fun Side of Me  
 - 🎭 Crime-content enthusiast  
 - 🌏 Loves traveling & writing  
-- 🎮 Enjoys creative games & challenges   
+- 🎮 Enjoys creative games & challenges  
 
 ---
 
 ## 📊 GitHub Vibes  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahira0810&layout=compact&theme=radical)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maahira0810&show_icons=true&theme=radical)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maahira0810&theme=radical)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Maahira0810&theme=radical&no-frame=true&row=1&column=6)  
 
 ---
 
-✨ *Exploring the intersection of creativity & technology*  
+💡 *Always open for collaboration & cool ideas*  
