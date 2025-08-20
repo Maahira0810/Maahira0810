@@ -17,21 +17,20 @@
 💻 **Languages:** Python, Java, JavaScript, SQL  
 🌐 **Frontend:** HTML, CSS, React, Responsive Web  
 📊 **Data Tools:** Power BI, MySQL, Spark  
-⚡ **Other:** Git, Blockchain 
+⚡ **Other:** Git, Blockchain  
 
 ---
 
 # 🌟 Fun Side of Me  
 - 🎭 Crime-content enthusiast  
-- 🌏 Loves traveling & writing 
+- 🌏 Loves traveling & writing  
 - 🎮 Enjoys creative games & challenges   
 
 ---
 
 ## 📊 GitHub Vibes  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maahira0810&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maahira0810&theme=radical)  
 
 ---
 
-💡 *Always open for collaboration & cool ideas* 
+✨ *Exploring the intersection of creativity & technology*  
